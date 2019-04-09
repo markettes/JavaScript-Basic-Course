@@ -1,7 +1,5 @@
 //Check for Palindromes
 
-//1st Solution
-
 function palindrome(str){
   let front = 0;
   let back  = str.length - 1;
